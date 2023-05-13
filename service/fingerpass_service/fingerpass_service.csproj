@@ -97,7 +97,7 @@
       <Project>{1da4e4e8-bbc4-4362-8eb2-3ac4b31ee582}</Project>
       <Name>messages</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\WinBioNET\WinBioNET\WinBioNET.csproj">
+    <ProjectReference Include="..\..\WinBioNET\WinBioNET.csproj">
       <Project>{6d7ebd5f-56da-4d8b-81c6-95c980f3d6f5}</Project>
       <Name>WinBioNET</Name>
     </ProjectReference>
